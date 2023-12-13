@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Knstant2374
+- 👋 Hi, I’m Kunle
 - 👀 I’m interested in Machine Learning and optimization
 - 🌱 I’m currently learning meta heuristic optimization (GA)
 - 💞️ I’m looking to collaborate on PINNS for FEA
